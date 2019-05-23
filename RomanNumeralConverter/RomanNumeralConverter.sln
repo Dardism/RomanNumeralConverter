@@ -1,0 +1,23 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RomanNumeralConverter", "RomanNumeralConverter\RomanNumeralConverter.csproj", "{13C4C459-DDF9-447F-B738-F6859F70A351}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RomanConverterTests", "RomanConverterTests\RomanConverterTests.csproj", "{56687E93-44EF-48C1-9AF1-FB19D7719FB1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{13C4C459-DDF9-447F-B738-F6859F70A351}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{13C4C459-DDF9-447F-B738-F6859F70A351}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{13C4C459-DDF9-447F-B738-F6859F70A351}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{13C4C459-DDF9-447F-B738-F6859F70A351}.Release|Any CPU.Build.0 = Release|Any CPU
+		{56687E93-44EF-48C1-9AF1-FB19D7719FB1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{56687E93-44EF-48C1-9AF1-FB19D7719FB1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{56687E93-44EF-48C1-9AF1-FB19D7719FB1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{56687E93-44EF-48C1-9AF1-FB19D7719FB1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

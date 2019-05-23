@@ -1,0 +1,17 @@
+/Users/dardis/Projects/RomanNumeralConverter/RomanConverterTests/bin/Debug/netcoreapp2.1/Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+/Users/dardis/Projects/RomanNumeralConverter/RomanConverterTests/bin/Debug/netcoreapp2.1/Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+/Users/dardis/Projects/RomanNumeralConverter/RomanConverterTests/bin/Debug/netcoreapp2.1/Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+/Users/dardis/Projects/RomanNumeralConverter/RomanConverterTests/bin/Debug/netcoreapp2.1/RomanConverterTests.deps.json
+/Users/dardis/Projects/RomanNumeralConverter/RomanConverterTests/bin/Debug/netcoreapp2.1/RomanConverterTests.runtimeconfig.json
+/Users/dardis/Projects/RomanNumeralConverter/RomanConverterTests/bin/Debug/netcoreapp2.1/RomanConverterTests.runtimeconfig.dev.json
+/Users/dardis/Projects/RomanNumeralConverter/RomanConverterTests/bin/Debug/netcoreapp2.1/RomanConverterTests.dll
+/Users/dardis/Projects/RomanNumeralConverter/RomanConverterTests/bin/Debug/netcoreapp2.1/RomanConverterTests.pdb
+/Users/dardis/Projects/RomanNumeralConverter/RomanConverterTests/bin/Debug/netcoreapp2.1/RomanNumeralConverter.dll
+/Users/dardis/Projects/RomanNumeralConverter/RomanConverterTests/bin/Debug/netcoreapp2.1/RomanNumeralConverter.pdb
+/Users/dardis/Projects/RomanNumeralConverter/RomanConverterTests/obj/Debug/netcoreapp2.1/RomanConverterTests.csprojAssemblyReference.cache
+/Users/dardis/Projects/RomanNumeralConverter/RomanConverterTests/obj/Debug/netcoreapp2.1/RomanConverterTests.csproj.CoreCompileInputs.cache
+/Users/dardis/Projects/RomanNumeralConverter/RomanConverterTests/obj/Debug/netcoreapp2.1/RomanConverterTests.AssemblyInfoInputs.cache
+/Users/dardis/Projects/RomanNumeralConverter/RomanConverterTests/obj/Debug/netcoreapp2.1/RomanConverterTests.AssemblyInfo.cs
+/Users/dardis/Projects/RomanNumeralConverter/RomanConverterTests/obj/Debug/netcoreapp2.1/RomanConverterTests.csproj.CopyComplete
+/Users/dardis/Projects/RomanNumeralConverter/RomanConverterTests/obj/Debug/netcoreapp2.1/RomanConverterTests.dll
+/Users/dardis/Projects/RomanNumeralConverter/RomanConverterTests/obj/Debug/netcoreapp2.1/RomanConverterTests.pdb
